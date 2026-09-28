@@ -1,16 +1,27 @@
-## Hi there 👋
+# Onofrei Stefan
 
-<!--
-**bro18nice-prog/bro18nice-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile apps · Voice interfaces · Connected devices
 
-Here are some ideas to get you started:
+I build apps and small hardware projects, and learn by making them work end to end. My current projects connect everyday software with the physical world: a wardrobe, a territory game, and a voice assistant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **[Stylo](https://github.com/bro18nice-prog/Stylo)** | A personal wardrobe and outfit studio with photo import and mannequin previews | Flutter · Dart · Hive |
+| **[Conquer](https://github.com/bro18nice-prog/Conquer)** | Turns walks and runs into a territory game, with optional private groups | React Native · TypeScript · Expo · Supabase |
+| **[Titan](https://github.com/bro18nice-prog/Titan)** | A local voice assistant for Windows, with smart-home integrations and companion tools | Python · Whisper · Vosk · FastAPI |
+
+These are personal projects under active development. Each repository documents setup, current limitations, and checks you can run.
+
+## Smaller projects
+
+- **[Valentine](https://github.com/bro18nice-prog/valentine)** — a small interactive page built with HTML, CSS, and JavaScript.
+- **[HomeEnergyMonitor](https://github.com/bro18nice-prog/HomeEnergyMonitor)** — an early home-energy project outline; implementation is not published yet.
+
+## Exploring next
+
+- Camera-based hand gestures for controlling a computer.
+- A minimal smart-glasses companion for Titan.
+
+Both are in the planning stage. I document decisions as I go and aim to understand, maintain, and improve every project I publish.
