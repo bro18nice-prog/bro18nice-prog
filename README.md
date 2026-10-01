@@ -2,7 +2,7 @@
 
 ### Mobile apps · Voice interfaces · Connected devices
 
-I build apps and small hardware projects, and learn by making them work end to end. My current projects connect everyday software with the physical world: a wardrobe, a territory game, and a voice assistant.
+I build apps and small hardware projects, and learn by making them work end to end. My current projects connect everyday software with the physical world: a wardrobe, a territory game, and voice assistants.
 
 ## Projects
 
@@ -11,6 +11,9 @@ I build apps and small hardware projects, and learn by making them work end to e
 | **[Stylo](https://github.com/bro18nice-prog/Stylo)** | A personal wardrobe and outfit studio with photo import and mannequin previews | Flutter · Dart · Hive |
 | **[Conquer](https://github.com/bro18nice-prog/Conquer)** | Turns walks and runs into a territory game, with optional private groups | React Native · TypeScript · Expo · Supabase |
 | **[Titan](https://github.com/bro18nice-prog/Titan)** | A local voice assistant for Windows, with smart-home integrations and companion tools | Python · Whisper · Vosk · FastAPI |
+| **[Jarvis](https://github.com/bro18nice-prog/Jarvis)** | A separate Windows voice assistant with Gemini conversations, desktop controls, and a web control panel | Python · Gemini · faster-whisper · Edge TTS |
+
+Jarvis and Titan are separate projects with their own code and setup.
 
 These are personal projects under active development. Each repository documents setup, current limitations, and checks you can run.
 
